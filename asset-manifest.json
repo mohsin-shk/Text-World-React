@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-World-React/static/css/main.56bd7a77.css",
+    "main.js": "/Text-World-React/static/js/main.60ff4469.js",
+    "index.html": "/Text-World-React/index.html",
+    "main.56bd7a77.css.map": "/Text-World-React/static/css/main.56bd7a77.css.map",
+    "main.60ff4469.js.map": "/Text-World-React/static/js/main.60ff4469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bd7a77.css",
+    "static/js/main.60ff4469.js"
+  ]
+}
